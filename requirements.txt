@@ -1,0 +1,5 @@
+HandTracking/
+├── VolumeHandControl.py      # Main application script
+├── HandTrackingModule.py               # Helper functions
+├── requirements.txt       # Dependency list
+└── README.md              # This file
